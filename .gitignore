@@ -1,4 +1,3 @@
 dataset/images
 dataset/train.jsonl
 .venv
-qwen_vl_lora
