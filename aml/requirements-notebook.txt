@@ -1,0 +1,9 @@
+# 最小依赖（Notebook 端）
+# 训练发生在 Azure ML 计算上，本地无需安装 torch/transformers 等大依赖
+azure-ai-ml>=1.15.0
+azure-identity>=1.16.0
+pandas>=2.1.0
+pyarrow>=15.0.0
+pillow>=10.2.0
+tqdm>=4.66.0
+ipywidgets>=8.1.7
