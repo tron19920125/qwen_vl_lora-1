@@ -1,3 +1,4 @@
 dataset/images
 dataset/train.jsonl
 .venv
+aml/workshop_qwen_vl
